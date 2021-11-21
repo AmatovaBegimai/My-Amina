@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anima</string>
+    <string name="welcome_to_anima">Welcome to Anima!</string>
+    <string name="what_is_your_goal">What is your goal?</string>
+    <string name="it_will_help_us_find_content_for_you">it will help us find content for you</string>
+    <string name="do_you_have">Do you have any experience in meditation?</string>
+    <string name="it_will_help_us">it will help us find content for you</string>
+    <string name="home">Home</string>
+    <string name="main">Main</string>
+    <string name="settings">Settings</string>
+</resources>
